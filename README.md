@@ -4,6 +4,7 @@ Files for Scratch programming
 Sample programs for you to enjoy are found in the Scratch Projects folder.
 
 Links of interest:
+
 http://scratch.mit.edu/
 http://scratched.gse.harvard.edu/resources/dice-4-scratch
 https://scratch.mit.edu/help/cards/
